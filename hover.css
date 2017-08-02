@@ -1,0 +1,9 @@
+.header-login1 a:hover {color:#FFF;}
+.header-menu a:hover{color:#FFF;}
+.menu-header1 ul li:hover ul{display:block;left:0}
+.menu-header1 ul>li:hover{background:#FFF;}
+.menu-header1 ul>li:hover a{color:#333;}
+.tt a:hover{text-decoration:underline;}
+.tt1 a:hover{text-decoration:underline;}
+#dienlanh1 a:hover{text-decoration:underline;}
+.sanpham a:hover{text-decoration:underline;}
